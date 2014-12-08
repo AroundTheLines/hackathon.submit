@@ -1,3 +1,0 @@
-### codebase directory
-
-use this directory to showcase ALL of the code for the hackathon project.
