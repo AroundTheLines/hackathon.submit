@@ -1,0 +1,163 @@
+@import url("http://fonts.googleapis.com/css?family=Press+Start+2P");
+
+body {padding: 0; margin: 0; overflow: hidden;}
+#canvas {background: white;}
+
+#menu, #reMenu {
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: white;
+}
+
+#reMenu {background: transparent;}
+
+h1, p, a, h6 {
+	position: relative;  
+	z-index: 1; 
+	font: 72px "Press Start 2P", cursive;
+	color: black;
+	text-align: center;
+	margin: 0;
+}
+
+a{
+	font-size : 16px; 
+	margin: 0;
+	display: inline-block;
+	position: relative;
+	left: 0;
+}
+
+h1 {margin-top: 5%;}
+
+p {
+	font-size: 16px;
+	margin-top: 10px;
+	padding-left: 200px;
+}
+
+#start, #restart, #tweet, #loading {
+	font-size: 24px;
+	display: block;
+	width: 120px;
+	top: 10%;	
+	left: 0; 
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+	padding: 10px;
+	text-decoration: none;
+	margin: 0 auto; 
+}
+
+#printStatement {
+	font-size: 20px;
+	display: block;
+	width: 800px;
+	top: 10%;	
+	left: 0; 
+	padding: 20px;
+	text-decoration: none;
+	margin: 0 auto; 
+}
+
+#maybeThis {
+	font-size: 40px;
+	width: 850px;
+	display: none;
+	top: 2%;	
+	left: 0; 
+	text-decoration: none;
+	color: gold;
+	margin: 0 auto; 
+}
+
+#restart {width: 165px; top: 10%}
+
+#tweet {top: 30%; width: 342px;}
+
+#score{
+	bottom: 10px;
+	position: absolute;
+	z-index: 1;
+	padding-left: 10px;
+	font-size: 16px;
+}
+#codeText, #images {
+	bottom: 40px;
+	position: absolute;
+	z-index: 1;
+	padding-left: 10px;
+	font-size: 16px;
+}
+
+#bankP, #bankR, #bankI, #bankN, 
+#bankT, #bankQ1, #bankH, #bankE, 
+#bankL, #bankL2, #bankO, #bankQ2, 
+#bankQ3{
+	font-size: 25px;
+	bottom:100px;
+	padding: 10px;
+	text-decoration: none;
+	margin: 0 auto; 
+	color: blue;
+} 
+
+#bankR{
+	padding-left: 10px;
+}
+
+#bankI{
+	padding-left: 15px;
+}
+
+#bankN{
+	padding-left: 20px;
+}
+
+#bankT{
+	padding-left: 25px;
+}
+
+#bankQ1{
+	padding-left: 30px;
+}
+
+#bankH{
+	padding-left: 35px;
+}
+
+#bankE{
+	padding-left: 40px;
+}
+
+#bankL{
+	padding-left: 45px;
+}
+
+#bankL2{
+	padding-left: 50px;
+}
+
+#bankO{
+	padding-left: 55px;
+}
+
+#bankQ2{
+	padding-left: 60px;
+}
+
+
+#loading {
+	border: none;
+	font-size: 16px;
+	top: 20%;
+	width: 200px;
+}
+
+#start{top: 100%;}
+
+#info2 {padding : 0;}
