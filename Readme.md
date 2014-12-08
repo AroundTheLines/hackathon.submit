@@ -1,6 +1,8 @@
 # OurBrilliance Hackathon Submission
 This is the hackathon submission of team OurBrilliance.
 
+![OurBrilliance](http://i.imgur.com/EbCmSgj.png "OurBrilliance")
+
 ## Description
 
 Our project is a snake game, where the snake is controlled to collect letters that make up a line of python. We wanted to keep it rather simple, since we're all relatively new to web development! Our theme of choice was introducing beginners to programming, and what other way to do it than a classic like the game of snake! It shows the simplicity of the basics of code, all the while being enjoyable to play. Hopefully you enjoy it!
