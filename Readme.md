@@ -6,6 +6,11 @@ This is the hackathon submission of team OurBrilliance.
 ## Description
 
 Our project is a snake game, where the snake is controlled to collect letters that make up a line of python. We wanted to keep it rather simple, since we're all relatively new to web development! Our theme of choice was introducing beginners to programming, and what other way to do it than a classic like the game of snake! It shows the simplicity of the basics of code, all the while being enjoyable to play. Hopefully you enjoy it!
+
+##Gameplay
+
+Users navigate the snake to collect the letters to form the code. Once they have collected all required characters, they will  get a brief explanation of the code they have just made as well as a link to some resources where they can learn more. They will then move on to the next level (new levels not yet implemented).
+
 ## Screenshots
 
 Here are some screenshots of our project.
